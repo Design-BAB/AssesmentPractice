@@ -1,4 +1,4 @@
-# Java Programming Practice: CIS101 & CIS201
+#Programming Practice: CIS101 & CIS201
 
 This repository contains a series of Java exercises and assessments inspired by coursework from **CIS101 (Intro to Programming)** and **CIS201 (Object-Oriented Programming)**. The goal is to reinforce foundational programming concepts while building clean, testable, and readable code.
 
