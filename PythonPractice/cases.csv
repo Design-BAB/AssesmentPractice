@@ -1,0 +1,8 @@
+id,client,amount_owed,status
+1,John Smith,1500.00,active
+2,Jane Doe,850.00,overdue
+3,Bob Johnson,2300.00,closed
+4,Alice Brown,1100.00,overdue
+5,Charlie Davis,500.00,active
+6,Eve Martinez,3200.00,closed
+7,Frank Wilson,750.00,overdue
