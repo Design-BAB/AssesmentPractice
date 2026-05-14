@@ -108,11 +108,17 @@ newLine()
 
 #Move all zeros to the end of the list/array
 myList = [5, 7, 2, 0, 8, 0, 3]
+noZeros = []
+zeroNum = 0
 print("Moving zero to the end of this list: " + str(myList))
 for num in myList:
-    if num == 0:
-        myList.append(num)
-        myList.remove(num)
+    if num != 0:
+        noZeros.append(num)
+    else:
+        zeroNum = zeroNum + 1
+for i in range(zeroNum):
+    noZeros.append(0)
+myList = noZeros
 print("Result: " + str(myList))
 newLine()
 
